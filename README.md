@@ -1,4 +1,4 @@
 # SQL
-### This code repository contains examples of SQL code I've written! 
+### This code repository contains examples of SQL code I've written! :smile:
 
 
